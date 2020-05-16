@@ -27,6 +27,7 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
+  text-align: right
 }
 body {
 	line-height: 1;
@@ -111,7 +112,86 @@ p {
     align-items: center;
     justify-content: center;
 }
-
+.box1 {
+  background-color: teal;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box2 {
+  background-color: gold;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box3 {
+  background-color: cadetblue;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box4 {
+  background-color: coral;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box5 {
+  background-color: crimson;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box6 {
+  background-color: forestgreen;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box7 {
+  background-color: darkorchid;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box8 {
+  background-color: hotpink;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box9 {
+  background-color: indigo;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
+.box10 {
+  background-color: dodgerblue;
+  color: white;
+  text-align: center;
+  width: 125px;
+  height: 125px;
+  margin: 30px;
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
